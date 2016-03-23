@@ -1,7 +1,7 @@
 name: mikaylameyer
 favicon: null
-layout_spectrum: 0.098252386553213
-typography_spectrum: 0.7405842228326946
+layout_spectrum: 1
+typography_spectrum: 0.4565
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5053634943906218
-  lightness: 0.7694517890922725
-  saturation: 0.13677010196261108
-  rhythmicContrast: 0.07609560783021152
+    - '#2a333a'
+    - '#d8c157'
+    - '#a97802'
+    - '#ffffff'
+    - '#040700'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose: []
