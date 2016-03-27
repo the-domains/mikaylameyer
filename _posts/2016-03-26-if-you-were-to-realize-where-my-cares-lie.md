@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: If you were to realize where my cares lie
-datePublished: '2016-03-27T02:47:58.997Z'
-dateModified: '2016-03-26T22:55:52.742Z'
+datePublished: '2016-03-27T02:52:44.744Z'
+dateModified: '2016-03-27T02:52:28.392Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-if-you-were-to-realize-where-my-cares-lie.md
@@ -37,6 +37,6 @@ is what you should love me for as well as my art forms-
 would you want to know more?
 
 I feel that you don't appreciate the same strange things that I do.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0258a71e-b589-4403-b479-94569f74194e.jpg)
 
 I'm happy to love myself.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0258a71e-b589-4403-b479-94569f74194e.jpg)
