@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Lecture to me about all that you think and feel. Lecture your thoughts aloud as if your words are biblical. I will drink your words as if they are my black coffee in the mornings. Show me your passion even if it's just an act- I will believe it. Passion to me is an attribute of Godly, higher powered, people."
-datePublished: '2016-03-27T00:02:31.782Z'
-dateModified: '2016-03-27T00:02:12.094Z'
+datePublished: '2016-03-27T02:46:51.097Z'
+dateModified: '2016-03-27T02:46:50.685Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-27-lecture-to-me-about-all-that-you-think-and-feel-lecture-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-lecture-to-me-about-all-that-you-think-and-feel-lecture-you.md
-published: true
 url: lecture-to-me-about-all-that-you-think-and-feel-lecture-you/index.html
 _type: Article
 
